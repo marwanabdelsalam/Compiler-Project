@@ -1,0 +1,1 @@
+gcc LexerTry.c ArrayHandler.c ValidDataType-final.c FOR_Handler.c Identifier.c KeyWord.c NumberHandler.c Operators.c Seperators.c TreeFunction.c Linked_List_handler.c VariableHandler.c PointerHandler.c FunctionHandler.c Syntax_Handler.c Switch_handler.c
